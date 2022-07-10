@@ -8,7 +8,7 @@ def main(args:Array[String])={
     println(profit(10));
     println(profit(15));
     println(profit(20));
-    println(profit(25));
+    println(profit(25));   // Maximum profit
     println(profit(30));
     println(profit(35));
     println(profit(40));
